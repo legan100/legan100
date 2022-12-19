@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @legan100
 - 👀 I’m interested in informatics especially new programmer language.
-- 🌱 I’m currently learning typescipt and machic.
-- 💞️ I’m looking to collaborate on my new africangame
+- 🌱 I’m currently learning Java.
+- 💞️ I’m looking to collaborate on my africangame
 - 📫 You can reach me at my email contact@niconagel.de.
 
 <!---
